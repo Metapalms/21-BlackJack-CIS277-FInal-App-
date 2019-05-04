@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My CIS-277 FInal App
 
 You can use the [editor on GitHub](https://github.com/Metapalms/21-BlackJack-CIS277-FInal-App-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
